@@ -6,8 +6,8 @@
 				"cschleiden.vscode-github-actions",
 				"ms-vsliveshare.vsliveshare",
 				"matklad.rust-analyzer",
-				"serayuzgur.crates",
-				"vadimcn.vscode-lldb"
+				"vadimcn.vscode-lldb",
+				"fill-labs.dependi"
 			],
 			"settings": {
 				"editor.formatOnSave": true,
